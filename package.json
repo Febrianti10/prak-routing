@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/Febrianti10/prak-routing#readme",
   "devDependencies": {
-    "@types/node": "^20.0.0",
+    "@types/node": "^20.19.39",
     "ts-node": "^10.9.2",
-    "typescript": "^5.0.0",
-    "ts-node-dev": "^2.0.0"
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3"
   }
 }
